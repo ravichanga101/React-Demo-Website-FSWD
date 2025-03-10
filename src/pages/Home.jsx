@@ -6,7 +6,7 @@ const Home = () => {
       {/* Hero Section */}
       <div className="max-w-3xl">
         <h1 className="text-4xl font-bold text-blue-600 mb-4">
-          Welcome to React Learning...
+          Welcome to React Learning...!!!
         </h1>
         <p className="text-gray-700 text-lg mb-6">
           Learn React step by step with modern tools and best practices.
